@@ -9,8 +9,8 @@ Pythonの変数・条件分岐・繰り返し・関数は、必要に応じて�
 ## 2. 教科書と講義資料
 
 - 教科書：[『Pythonでデスクトップアプリを作ろう』中島省吾 著、日経BP](https://info.nikkeibp.co.jp/media/NSW/atcl/books/110900064/)
-- 学習用：[Tkinter資料（学生用）.pptx](資料/Tkinter資料（学生用）.pptx)
-- 解説・解答付き：[Tkinter資料.pptx](資料/Tkinter資料.pptx)
+- 学習用：[Tkinter資料（学生用）.pptx](slide/Tkinter資料（学生用）.pptx)
+- 解説・解答付き：[Tkinter資料（教員用）.pptx](slide/Tkinter資料（教員用）.pptx)
 - 練習問題の解答例：[src](src)
 
 教科書の第1部で基礎を確認し、第2部・第3部のアプリ事例を自作アプリの参考にしてください。講義では主に`tkinter`のウィジェットと`grid()`を使います。
@@ -102,10 +102,10 @@ root.mainloop()
 ## 8. ディレクトリ構成
 
 ```text
-Tkinter資料/
+tkinter_material/
 ├── README.md
-├── 資料/
-│   ├── Tkinter資料.pptx
+├── slide/
+│   ├── Tkinter資料（教員用）.pptx
 │   └── Tkinter資料（学生用）.pptx
 └── src/
     ├── 練習1.py
