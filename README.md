@@ -1,0 +1,2 @@
+# tkinter_material
+PythonとTkinterでGUIの基礎を学び、自分だけのデスクトップアプリを作るための講義資料・練習問題・解答例
